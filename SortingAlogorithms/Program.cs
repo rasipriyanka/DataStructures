@@ -7,6 +7,7 @@ namespace SortingAlogorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Bubble Sort");
+            BubbleSort.Sort();
         }
     }
 }
